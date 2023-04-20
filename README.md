@@ -165,7 +165,7 @@ The basic elements of the Hindu temple remain the same across all periods and st
 ![veedu](https://user-images.githubusercontent.com/118423842/233290459-a2bf3554-8072-4cac-afbe-973f1448aa16.png)
 ![house](https://user-images.githubusercontent.com/118423842/233290803-68a081c1-01cf-4449-ba1d-512ea908fb63.png)
 ![![shop](https://user-images.githubusercontent.com/118423842/233290832-6df9271c-f7ff-4fcb-8476-99ba6355fa28.png)
-hotel](https://user-images.githubusercontent.com/118423842/233290819-d3eb9241-bddc-4554-8057-3c0f21266d7d.png)
+![![hotel](https://user-images.githubusercontent.com/118423842/233290819-d3eb9241-bddc-4554-8057-3c0f21266d7d.png)
 ![petrolbunk](https://user-images.githubusercontent.com/118423842/233290884-e14420c4-193c-4143-a0fd-2944e18b3114.png)
 ![temple1](https://user-images.githubusercontent.com/118423842/233290901-1838ef37-c4eb-4aad-9edb-7c78446177d6.png)
 
